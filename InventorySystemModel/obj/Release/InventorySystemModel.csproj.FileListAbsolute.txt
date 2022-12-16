@@ -1,0 +1,15 @@
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\bin\Release\InventorySystemModel.exe.config
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\bin\Release\InventorySystemModel.exe
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\bin\Release\InventorySystemModel.pdb
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\bin\Release\aa-DJ\InventorySystemModel.resources.dll
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Release\InventorySystemModel.csproj.AssemblyReference.cache
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Release\InventorySystemModel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Release\InventorySystemModel.formDashboard.resources
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Release\InventorySystemModel.formLogin.resources
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Release\InventorySystemModel.Properties.Resources.resources
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Release\InventorySystemModel.formDashboard.aa-DJ.resources
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Release\InventorySystemModel.csproj.GenerateResource.cache
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Release\InventorySystemModel.csproj.CoreCompileInputs.cache
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Release\aa-DJ\InventorySystemModel.resources.dll
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Release\InventorySystemModel.exe
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Release\InventorySystemModel.pdb

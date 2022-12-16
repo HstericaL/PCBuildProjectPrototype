@@ -1,0 +1,30 @@
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\bin\Debug\InventorySystemModel.exe.config
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\bin\Debug\InventorySystemModel.exe
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\bin\Debug\InventorySystemModel.pdb
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Debug\InventorySystemModel.csproj.AssemblyReference.cache
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Debug\InventorySystemModel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Debug\InventorySystemModel.Properties.Resources.resources
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Debug\InventorySystemModel.csproj.GenerateResource.cache
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Debug\InventorySystemModel.csproj.CoreCompileInputs.cache
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Debug\InventorySystemModel.exe
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Debug\InventorySystemModel.pdb
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Debug\InventorySystemModel.formLogin.resources
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Debug\InventorySystemModel.formDashboard.resources
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\bin\Debug\aa-DJ\InventorySystemModel.resources.dll
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Debug\InventorySystemModel.formDashboard.aa-DJ.resources
+C:\Users\Asus PC\OneDrive - STI College Dasmarinas\College 3rd School Year\Event-Driven Programming\Finals\Inventory System\InventorySystemModel\obj\Debug\aa-DJ\InventorySystemModel.resources.dll
+D:\School\InventorySystemModel\bin\Debug\InventorySystemModel.exe.config
+D:\School\InventorySystemModel\bin\Debug\InventorySystemModel.exe
+D:\School\InventorySystemModel\bin\Debug\InventorySystemModel.pdb
+D:\School\InventorySystemModel\bin\Debug\aa-DJ\InventorySystemModel.resources.dll
+D:\School\InventorySystemModel\obj\Debug\InventorySystemModel.csproj.AssemblyReference.cache
+D:\School\InventorySystemModel\obj\Debug\InventorySystemModel.csproj.SuggestedBindingRedirects.cache
+D:\School\InventorySystemModel\obj\Debug\InventorySystemModel.formDashboard.resources
+D:\School\InventorySystemModel\obj\Debug\InventorySystemModel.formLogin.resources
+D:\School\InventorySystemModel\obj\Debug\InventorySystemModel.Properties.Resources.resources
+D:\School\InventorySystemModel\obj\Debug\InventorySystemModel.formDashboard.aa-DJ.resources
+D:\School\InventorySystemModel\obj\Debug\InventorySystemModel.csproj.GenerateResource.cache
+D:\School\InventorySystemModel\obj\Debug\InventorySystemModel.csproj.CoreCompileInputs.cache
+D:\School\InventorySystemModel\obj\Debug\aa-DJ\InventorySystemModel.resources.dll
+D:\School\InventorySystemModel\obj\Debug\InventorySystemModel.exe
+D:\School\InventorySystemModel\obj\Debug\InventorySystemModel.pdb
